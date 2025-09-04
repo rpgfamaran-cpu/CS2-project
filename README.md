@@ -1,2 +1,1 @@
-# CS2-project
-CS 2 project for comsci
+Idk wala pako group mates...
