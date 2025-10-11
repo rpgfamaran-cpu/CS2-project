@@ -12,17 +12,23 @@ Our project is a simple Python game designed to serve as a demonstration of fund
 
 ## How to Run the Program: 
 1.) Make sure a Compiler or Python is installed.
+
 2.) Download the "guessing game.py" as file.
+
 3.) Open your terminal / command prompt and locate where the file is saved.
+
 4.) Run the script using Python or a Compiler by pressing "Run", or by pressing key F5.
+
 5.) Follow the prompts in the screen for guidance.
 
 ## Sample Interaction: 
 Input Your Name!: Anne 
+
 Wow! You made a great name, Anne.
 
 Would you like to start? Press 1 if yes, 2 if no: 2
-Goodbye! 
+
+Goodbye! -end-
 
 ## Contributors: 
 - Student 1: Famaran, Paulo G. (input ambag)
