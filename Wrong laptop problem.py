@@ -1,5 +1,11 @@
 #Idk Quarter Project 2 I guesse. Made by Paulo, Cowey, Aidan.
-print("SUPER SIMPLE LAPTOP NUMBER ASSIGNER")
+
+    if choice == "+":
+        cname = input("Class name: ")
+        classes[cname] = []
+        print("Added class!")
+    elif choice.isdigit():
+        choice = int(choice)print("SUPER SIMPLE LAPTOP NUMBER ASSIGNER")
 classes = {}
 while True:
     print("\nCLASSES:")
@@ -11,12 +17,6 @@ while True:
         num += 1
     print("\n+ = add class")
     choice = input("Choose class number or +: ")
-    if choice == "+":
-        cname = input("Class name: ")
-        classes[cname] = []
-        print("Added class!")
-    elif choice.isdigit():
-        choice = int(choice)
         if 1 <= choice <= len(names):
             cname = names[choice-1]
             while True:
@@ -58,4 +58,5 @@ while True:
             print("No class found.")
     else:
         print("Nope.")
+
 
