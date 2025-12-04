@@ -28,17 +28,20 @@ SUPER SIMPLE CLASS LAPTOP NUMBER ASSIGNER
 
 CLASSES:
 
-# adds a class into the list
+#adds a class into the list: 
+
 + = add class
 Choose class number or +: +
 Class name: 8 - Sampaguita
 Added class!
 
-# displays the classes in the list
+#displays the classes in the list: 
+
 CLASSES:
 1 ) 8 - Sampaguita
 
-# adds another class into the list
+#adds another class into the list: 
+
 + = add class
 Choose class number or +: +
 Class name: 8 - Ilang-Ilang
@@ -48,7 +51,8 @@ CLASSES:
 1 ) 8 - Sampaguita
 2 ) 8 - Ilang-Ilang
 
-# prompts the user to manage a specific class 
+#prompts the user to manage a specific class: 
+
 + = add class
 Choose class number or +: 1
 
@@ -56,7 +60,8 @@ CLASS: 8 - Sampaguita
 STUDENTS:
 None
 
-# prompts the user to manage / add students in a specific class into their corresponding laptop numbers
+#prompts the user to manage / add students in a specific class into their corresponding laptop numbers: 
+
 + = add student
 - = remove student
 * = back
@@ -82,7 +87,8 @@ STUDENTS:
 1 ) Miguel - 24
 2 ) Vencent - 18
 
-# removes a student from the class list
+#removes a student from the class list: 
+
 + = add student
 - = remove student
 * = back
@@ -92,12 +98,14 @@ Pick: -
 Number: 1
 Removed!
 
-# displays the result of what's left in the class list
+#displays the result of what's left in the class list: 
+
 CLASS: 8 - Sampaguita
 STUDENTS:
 2 ) Vencent - 18
 
-# returns to the list of classes
+#returns to the list of classes: 
+
 + = add student
 - = remove student
 * = back
