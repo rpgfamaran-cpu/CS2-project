@@ -1,11 +1,14 @@
 # Project Title: Class Laptop Number Assigner 
 
 ## Project Description
-Our project is a simple class laptop number organizer designed and planned to keep track of each students' designated laptop number in every grade and section.
+Our project is a simple class laptop number organizer designed and planned to manage each classes of students, and their assigned laptop numbers. Our tool is designed to be simple and easy to run without any external dependencies.
 
 ## Features
-- Manual input of each grade, section, student name and assigned laptop number.
+- Class Management: Adds new classes dynamically.
+- Student Management: Add or remove students from a specific class.
+- Laptop Assignment: Stores the assigned laptop number for each student.
 - Manages invalid inputs from the user
+- Interactive Menu: Navigates through different classes and students with simple commands.
 - Provides feedback from the outcome based on the relational operations used ( == ).
 
 ## How to Run the Program 
