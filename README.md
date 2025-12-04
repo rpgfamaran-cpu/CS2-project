@@ -24,6 +24,90 @@ Our project is a simple class laptop number organizer designed and planned to ma
 
 ## Sample Interaction
 
+SUPER SIMPLE CLASS LAPTOP NUMBER ASSIGNER
+
+CLASSES:
+
+# adds a class into the list
++ = add class
+Choose class number or +: +
+Class name: 8 - Sampaguita
+Added class!
+
+# displays the classes in the list
+CLASSES:
+1 ) 8 - Sampaguita
+
+# adds another class into the list
++ = add class
+Choose class number or +: +
+Class name: 8 - Ilang-Ilang
+Added class!
+
+CLASSES:
+1 ) 8 - Sampaguita
+2 ) 8 - Ilang-Ilang
+
+# prompts the user to manage a specific class 
++ = add class
+Choose class number or +: 1
+
+CLASS: 8 - Sampaguita
+STUDENTS:
+None
+
+# prompts the user to manage / add students in a specific class into their corresponding laptop numbers
++ = add student
+- = remove student
+* = back
+Pick: +
+Student Name: Miguel
+Laptop: 24
+Added!
+
+CLASS: 8 - Sampaguita
+STUDENTS:
+1 ) Miguel - 24
+
++ = add student
+- = remove student
+* = back
+Pick: +
+Student name: Vencent
+Laptop: 18
+Added!
+
+CLASS: 8 - Sampaguita
+STUDENTS:
+1 ) Miguel - 24
+2 ) Vencent - 18
+
+# removes a student from the class list
++ = add student
+- = remove student
+* = back
+Pick: -
+1 ) Miguel
+2 ) Vencent
+Number: 1
+Removed!
+
+# displays the result of what's left in the class list
+CLASS: 8 - Sampaguita
+STUDENTS:
+2 ) Vencent - 18
+
+# returns to the list of classes
++ = add student
+- = remove student
+* = back
+Pick: *         
+
+CLASSES:
+1 ) 8 - Sampaguita
+2 ) 8 - Ilang-Ilang
+
+-- END -- 
 
 ## Contributors 
 - Student 1: Famaran, Paulo G. (input ambag)
