@@ -11,7 +11,7 @@ while True:
         num += 1
     print("\n+ = add class")
     choice = input("Choose class number or +: ")
-        if 1 <= choice <= len(names):
+    if 1 <= choice <= len(names):
             cname = names[choice-1]
             while True:
                 print("\nCLASS:", cname)
@@ -48,9 +48,10 @@ while True:
                     break
                 else:
                     print("Nope.")
-        else:
-            print("No class found.")
+            else:
+                print("No class found.")
     else:
         print("Nope.")
+
 
 
