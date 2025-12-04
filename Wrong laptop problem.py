@@ -1,5 +1,5 @@
 #Idk Quarter Project 2 I guesse. Made by Paulo, Cowey, Aidan.
-print("SUPER SIMPLE LAPTOP ASSIGNER")
+print("SUPER SIMPLE LAPTOP NUMBER ASSIGNER")
 classes = {}
 while True:
     print("\nCLASSES:")
@@ -55,6 +55,7 @@ while True:
                 else:
                     print("Nope.")
         else:
-            print("Bad class.")
+            print("No class found.")
     else:
         print("Nope.")
+
