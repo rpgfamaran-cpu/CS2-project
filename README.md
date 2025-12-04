@@ -29,36 +29,59 @@ SUPER SIMPLE CLASS LAPTOP NUMBER ASSIGNER
 CLASSES:
 
 + = add class
+  
 Choose class number or +: +
+
 Class name: 8 - Sampaguita
+
 Added class!
 
+
 CLASSES:
+
 1 ) 8 - Sampaguita
+
 
 + = add class
+  
 Choose class number or +: +
+
 Class name: 8 - Ilang-Ilang
+
 Added class!
 
+
 CLASSES:
+
 1 ) 8 - Sampaguita
+
 2 ) 8 - Ilang-Ilang
+
 
 + = add class
 Choose class number or +: 1
 
 CLASS: 8 - Sampaguita
+
 STUDENTS:
+
 None
 
+
 + = add student
+
 - = remove student
+  
 * = back
+  
 Pick: +
+
 Student Name: Miguel
+
 Laptop: 24
+
 Added!
+
 
 CLASS: 8 - Sampaguita
 STUDENTS:
