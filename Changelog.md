@@ -2,10 +2,12 @@
 - Started on the project
 - Made the resperatory
 / Paulo
+
 09/03/25
 - Added readme.md
 - added project file
 / Paulo
+
 09/23/25
 - Made the main script
 - Imported the Guessing game.py
@@ -15,6 +17,7 @@
 - added choose item from list
 - added if, elif, else desicions for round starter/checker
 / Paulo
+
 12/04/25
 - Deleted old project
 - made a new system
