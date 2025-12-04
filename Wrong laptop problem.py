@@ -1,11 +1,5 @@
 #Idk Quarter Project 2 I guesse. Made by Paulo, Cowey, Aidan.
-
-    if choice == "+":
-        cname = input("Class name: ")
-        classes[cname] = []
-        print("Added class!")
-    elif choice.isdigit():
-        choice = int(choice)print("SUPER SIMPLE LAPTOP NUMBER ASSIGNER")
+print("SUPER SIMPLE LAPTOP NUMBER ASSIGNER")
 classes = {}
 while True:
     print("\nCLASSES:")
