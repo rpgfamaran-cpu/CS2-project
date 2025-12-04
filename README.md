@@ -28,7 +28,7 @@ SUPER SIMPLE CLASS LAPTOP NUMBER ASSIGNER
 
 CLASSES:
 
-+ = add class
+"+" = add class
   
 Choose class number or +: +
 
@@ -42,7 +42,7 @@ CLASSES:
 1 ) 8 - Sampaguita
 
 
-+ = add class
+"+" = add class
   
 Choose class number or +: +
 
@@ -58,7 +58,7 @@ CLASSES:
 2 ) 8 - Ilang-Ilang
 
 
-+ = add class
+"+" = add class
   
 Choose class number or +: 1
 
@@ -69,11 +69,11 @@ STUDENTS:
 None
 
 
-+ = add student
+"+" = add student
 
-- = remove student
+"-" = remove student
   
-* = back
+"*" = back
   
 Pick: +
 
@@ -91,11 +91,11 @@ STUDENTS:
 1 ) Miguel - 24
 
 
-+ = add student
+"+" = add student
   
-- = remove student
+"-" = remove student
   
-* = back
+"*" = back
   
 Pick: +
 
@@ -115,11 +115,11 @@ STUDENTS:
 2 ) Vencent - 18
 
 
-+ = add student
+"+" = add student
   
-- = remove student
+"-" = remove student
   
-* = back
+"*" = back
   
 Pick: -
 
@@ -139,11 +139,11 @@ STUDENTS:
 2 ) Vencent - 18
 
 
-+ = add student
+"+" = add student
   
-- = remove student
+"-" = remove student
   
-* = back
+"*" = back
   
 Pick: *      
 
