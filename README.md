@@ -59,6 +59,7 @@ CLASSES:
 
 
 + = add class
+  
 Choose class number or +: 1
 
 CLASS: 8 - Sampaguita
@@ -84,43 +85,75 @@ Added!
 
 
 CLASS: 8 - Sampaguita
+
 STUDENTS:
+
 1 ) Miguel - 24
 
+
 + = add student
+  
 - = remove student
+  
 * = back
+  
 Pick: +
+
 Student name: Vencent
+
 Laptop: 18
+
 Added!
 
+
 CLASS: 8 - Sampaguita
+
 STUDENTS:
+
 1 ) Miguel - 24
+
 2 ) Vencent - 18
 
+
 + = add student
+  
 - = remove student
+  
 * = back
+  
 Pick: -
+
 1 ) Miguel
+
 2 ) Vencent
+
 Number: 1
+
 Removed!
 
+
 CLASS: 8 - Sampaguita
+
 STUDENTS:
+
 2 ) Vencent - 18
 
+
 + = add student
+  
 - = remove student
+  
 * = back
-Pick: *         
+  
+Pick: *      
+
 
 CLASSES:
+
 1 ) 8 - Sampaguita
+
 2 ) 8 - Ilang-Ilang
+
 
 -- END -- 
 
