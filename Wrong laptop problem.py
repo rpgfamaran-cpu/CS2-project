@@ -20,3 +20,4 @@ else:
 Mainlist = ["Headless", "Rainbow Shaggy", "Golden Crown", "Monopoly hat"]
 
 print("Please choose from this list! USE ONLY 1-5!!!", Mainlist)
+
