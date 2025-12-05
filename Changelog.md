@@ -1,6 +1,6 @@
 09/01/25
 - Started on the project
-- Made the resperatory
+- Made the repository
 / Paulo
 
 09/03/25
@@ -37,3 +37,7 @@
 - made the main body
 - made the system the simplest i possibly can
 / Paulo
+
+12/04/25
+- Updated the readme.md file.
+/ Cowey
