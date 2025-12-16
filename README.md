@@ -158,7 +158,7 @@ CLASSES:
 -- END -- 
 
 ## Contributors 
-- Student 1: Famaran, Paulo G. (input ambag)
+- Student 1: Famaran, Paulo G. Main body of the code
 - Student 2: Flaviano, Cowey F. (README.md file)
-- Student 3: Fabon, Mc Aidan P. (input ambag)
+- Student 3: Fabon, Mc Aidan P.
   
