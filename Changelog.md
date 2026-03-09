@@ -41,3 +41,14 @@
 12/04/25
 - Updated the readme.md file.
 / Cowey
+
+3/09/26
+- Refined the code
+- Added edit student laptop number
+- Added search for a student
+- Refined code to prevent duplicate class names
+- Refined the code format for clearer and understandable program
+- Added option to exit the program
+- Added auto-sort students alphabetically
+- Updated the README.md file
+/ Aidan
